@@ -12,7 +12,7 @@ You can watch logs.
 
 ## Requirements
 
-It is using `modernc.org/sqlite` with CGO.
+It is using `github.com/mattn/go-sqlite3` with CGO.
 
 * musl-gcc to static compile
 
