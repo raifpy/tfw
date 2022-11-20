@@ -1,4 +1,7 @@
 # TFW
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2868bf70612b463cbf4f511abe4b2020)](https://app.codacy.com/gh/raifpy/tfw?utm_source=github.com&utm_medium=referral&utm_content=raifpy/tfw&utm_campaign=Badge_Grade_Settings)
+
 Something not important
 
 ```
